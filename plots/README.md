@@ -7,8 +7,8 @@ Alguns scripts para gerar gráficos de barra e linha em gnuplot
 
 ## Gráfico de barras
 <img align="left" width="400" height="400" src="img/dados-middleware-pormodelo.png"> 
-<img align="right" width="400" height="400" src="dados-middleware-porsolicitacao.png">
-**Gráfico 2. Tempo de resposta de solicitações do Middleware MARV** 
+<img align="right" width="400" height="400" src="img/dados-middleware-porsolicitacao.png">
+**Gráfico 2. Tempo de resposta de solicitações do Middleware MARV**
 
 ## Referências
 
