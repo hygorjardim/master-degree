@@ -3,12 +3,12 @@ Alguns scripts para gerar gráficos de barra e linha em gnuplot
 
 ## Gráficos de linha de área
 <img src="img/dados-gases-do-efeito-estufa.png" alt="Linha do tempo" align="center"/>
-**Gráfico 1** - Evolução das emissões brutas de GEE no Brasil, Amazônia e Pará entre 1995 e 2015 em bilhões de toneladas de dióxido de carbono equivalente. Adaptado de: (MOURA R., 2017)
+Gráfico 1 - Evolução das emissões brutas de GEE no Brasil, Amazônia e Pará entre 1995 e 2015 em bilhões de toneladas de dióxido de carbono equivalente. Adaptado de: (MOURA R., 2017)
 
 ## Gráfico de barras
 <img align="left" width="400" height="400" src="img/dados-middleware-pormodelo.png"> 
 <img align="right" width="400" height="400" src="img/dados-middleware-porsolicitacao.png">
-**Gráfico 2** - Tempo de resposta de solicitações do Middleware MARV
+Gráfico  - Tempo de resposta de solicitações do Middleware MARV
 
 ## Referências
 
