@@ -8,7 +8,9 @@ Gráfico 1 - Evolução das emissões brutas de GEE no Brasil, Amazônia e Pará
 ## Gráfico de barras
 <img align="left" width="400" height="400" src="img/dados-middleware-pormodelo.png"> 
 <img align="right" width="400" height="400" src="img/dados-middleware-porsolicitacao.png">
+
 Gráfico 2 - Tempo de resposta de solicitações do Middleware MARV
+
 
 ## Referências
 
