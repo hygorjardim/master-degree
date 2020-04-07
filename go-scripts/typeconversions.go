@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func typeconversions() {
 	var i int = 42
 	var f float64 = float64(i)
 

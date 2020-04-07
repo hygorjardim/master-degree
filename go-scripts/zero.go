@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func zero() {
 	var i int 
 	var e float64
 	var f bool

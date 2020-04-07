@@ -2,10 +2,11 @@ package main
 
 import "fmt"
 
-const Pi = 3.14
 
-func main() {
+
+func constants() {
 	const World = "世界"
+	const Pi = 3.14
 	fmt.Println("Hello", World)
 	fmt.Println("Happy", Pi, "Day")
 
